@@ -1,2 +1,2 @@
-# new_repo
-repo
+# dino-game
+dino game from google chrome
